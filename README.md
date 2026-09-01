@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00D4FF&height=230&section=header&text=Hi%20there,%20I'm%20Hamna%20👋&fontSize=44&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder&descAlignY=60&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00D4FF&height=230&section=header&text=Hi%20there,%20I'm%20Hamna%20👋&fontSize=44&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder&descAlignY=60&descSize=19" width="100%" />
 
 ### Building useful things with code, creativity & curiosity.
 
 <a href="https://linkedin.com/in/hamna-mushtaq-062798298">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="mailto:hamnamushtaq97@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -22,12 +22,12 @@ I'm a **Software Engineering student and developer** who enjoys turning ideas in
 
 * 🚀 Building **full-stack web applications** and modern user experiences
 * 🧩 Working with **React, TypeScript, JavaScript, Node.js & Shopify**
-* 🤖 Exploring **AI/ML** and ways to integrate intelligent features into real products
+* 🤖 Exploring **AI/ML** and intelligent features for real-world products
 * 🎨 Interested in **UI/UX, product design, and developer experience**
 * 🤝 Open to collaborating on **web apps, AI-powered products, and open-source projects**
 * ✨ I care about both sides of development: **how it works and how it feels to use**
 
-<br/>
+<br />
 
 ## 🛠️ Tech Stack
 
@@ -51,7 +51,7 @@ I'm a **Software Engineering student and developer** who enjoys turning ideas in
 
 </div>
 
-<br/>
+<br />
 
 ## 📌 What I Like Building
 
@@ -64,6 +64,7 @@ I'm a **Software Engineering student and developer** who enjoys turning ideas in
 Modern, responsive applications with clean architecture and thoughtful UX.
 
 </td>
+
 <td width="50%">
 
 ### 🤖 AI-Powered Products
@@ -81,19 +82,18 @@ Exploring practical ways to bring AI into useful, real-world applications.
 Building and customizing Shopify experiences focused on business needs and customer experience.
 
 </td>
+
 <td width="50%">
 
 ### 🎨 Product & UX
 
-Designing interfaces that are simple, intuitive, and actually enjoyable to use.
+Designing interfaces that are simple, intuitive, and enjoyable to use.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 📊 GitHub
+<br />
 
 ## 📊 GitHub Stats
 
@@ -105,9 +105,7 @@ Designing interfaces that are simple, intuitive, and actually enjoyable to use.
 
 </div>
 
-
-
-<br/>
+<br />
 
 <div align="center">
 
@@ -115,8 +113,8 @@ Designing interfaces that are simple, intuitive, and actually enjoyable to use.
 
 *Always curious. Always building.*
 
-<br/>
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00D4FF&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00D4FF&height=110&section=footer" width="100%" />
 
 </div>
