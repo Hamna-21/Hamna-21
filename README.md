@@ -95,18 +95,29 @@ Designing interfaces that are simple, intuitive, and enjoyable to use.
 
 <br />
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Stats 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamna-21&show_icons=false&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamna-21&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-21&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamna-21&theme=radical&hide_border=true" height="180"/>
 
 </div>
 
-<br />
+<div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-21&layout=compact&theme=radical&hide_border=true" height="180"/>
+
+</div>
+
+
+💻 Check out my repositories and projects below - always building, learning, and improving.
+<div align="center"> <a href="https://github.com/Hamna-21?tab=repositories"> 
+  <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> 
+</div> 
+<br /> 
 <div align="center">
 
 <a href="https://github.com/Hamna-21?tab=repositories">
