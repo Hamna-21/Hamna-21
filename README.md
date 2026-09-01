@@ -22,10 +22,10 @@ Role: Software Engineering Student
 
 ```
 
-- 👀 Interested in **web development, UX/product design, and cybersecurity** — I like building things that are equal parts functional and good-looking
-- 🌱 Currently deep in **React, TypeScript, and Shopify's Storefront API**, plus prepping for the **CSS exam (Feb 2027 sitting)**
+- 👀 Interested in **web development, UX/product design, and Ai/ML ** — I like building things that are equal parts functional and good-looking
+- 🌱 Currently deep in **React, TypeScript, Ai/ML and Shopify's Developer**.
 - 💞️ Open to collaborating on **web apps, AR/AI-powered products, and open-source projects** that push past the standard template
-- ⚡ Fun fact: I split my time between writing code and writing Urdu poetry — logic all day, lyricism at night
+- ⚡ Fun fact: I split my time between writing code logic all day, lyricism at night
 
 <br/>
 
@@ -40,7 +40,7 @@ Role: Software Engineering Student
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Ai-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
