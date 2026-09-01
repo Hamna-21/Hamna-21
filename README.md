@@ -5,9 +5,7 @@
 <a href="https://linkedin.com/in/hamna-mushtaq-062798298">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://behance.net/hamnamushtaq">
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
+
 <a href="mailto:hamnamushtaq97@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -19,12 +17,9 @@
 ## 🧿 About Me
 
 ```yaml
-name: Hamna Mushtaq
-role: Software Engineering Student — BESE-29
-institute: Military College of Signals (MCS), NUST, Rawalpindi
-graduating: 2027
-also_working_as: Teacher & Tutor (Grades 1–7, FSc Math/Physics/Chemistry, ECAT/NET prep)
-goals: [Software Engineering, Civil Service (CSS), Military Commission]
+Name: Hamna Mushtaq
+Role: Software Engineering Student 
+
 ```
 
 - 👀 Interested in **web development, UX/product design, and cybersecurity** — I like building things that are equal parts functional and good-looking
