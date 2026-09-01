@@ -95,17 +95,16 @@ Designing interfaces that are simple, intuitive, and actually enjoyable to use.
 
 ## 📊 GitHub
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamna-21&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hamna-21&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamna-21&hide_border=true&theme=transparent" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-21&layout=compact&hide_border=true&theme=transparent" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-21&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="40%" />
 
 </div>
+
 
 <br/>
 
