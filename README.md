@@ -95,15 +95,18 @@ Designing interfaces that are simple, intuitive, and enjoyable to use.
 
 <br />
 
-## 📊 GitHub Stats
+## 📊 GitHub
+
+> 💻 Check out my repositories and projects below — always building, learning, and improving.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamna-21&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-21&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="40%" />
+<a href="https://github.com/Hamna-21?tab=repositories">
+<img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
+
 
 <br />
 
