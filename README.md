@@ -95,6 +95,8 @@ Designing interfaces that are simple, intuitive, and enjoyable to use.
 
 <br />
 
+📊 GitHub Stats
+
 <div align="center">
 
 
@@ -109,6 +111,16 @@ Designing interfaces that are simple, intuitive, and enjoyable to use.
 
 <div align="center">
 
+
+> 💻 Check out my repositories and projects below always building, learning, and improving.
+
+<div align="center">
+
+<a href="https://github.com/Hamna-21?tab=repositories">
+<img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 
 </div>
