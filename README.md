@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Hamna%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Educator%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00D4FF&height=220&section=header&text=Hi%20there,%20I'm%20Hamna%20👋&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/hamna-mushtaq-062798298">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
