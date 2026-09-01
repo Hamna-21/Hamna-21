@@ -99,11 +99,12 @@ Designing interfaces that are simple, intuitive, and actually enjoyable to use.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamna-21&show_icons=true&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hamna-21&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-21&layout=compact&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-21&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="40%" />
 
 </div>
+
 
 
 <br/>
