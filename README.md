@@ -97,13 +97,7 @@ Designing interfaces that are simple, intuitive, and enjoyable to use.
 
 <div align="center">
 
-  <h2>📊 GitHub Stats</h2>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Hamna-21&show_icons=true&theme=radical&hide_border=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
 
   <img
     src="https://streak-stats.demolab.com?user=Hamna-21&theme=radical&hide_border=true"
@@ -115,11 +109,7 @@ Designing interfaces that are simple, intuitive, and enjoyable to use.
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamna-21&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
+
 
 </div>
 
